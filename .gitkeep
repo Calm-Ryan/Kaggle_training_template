@@ -1,0 +1,11 @@
+# Default directories
+
+models/
+notebooks/
+config/
+features/
+logs/
+repo/
+utils/
+scripts/
+
