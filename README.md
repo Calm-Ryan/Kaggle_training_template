@@ -12,9 +12,10 @@ git clone https://github.com/Calm-Ryan/Kaggle_training_template.git
 2. Build docker container
 ```
 cd 
+```
 
 ## Directory
-
+```
 | <br>
 |- input  - data or something that are downloaded <br>
 |- models - models or outputs are exported from trainings and inferences <br>
@@ -26,3 +27,4 @@ cd
 |- src - All of python scripts is contained. We should save scripts which is named "*.py" files. <br>
 |- tools - Docker environment with GPU.<br>
 |- LICENSE - MIT LICENSE <br>
+```
